@@ -61,7 +61,6 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
 
 ![image](https://github.com/Santhoshstudent/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145446853/2c96e209-e2b3-4c0f-8eea-c8e05e8420e2)
 
